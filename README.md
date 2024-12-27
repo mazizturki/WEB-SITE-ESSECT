@@ -24,7 +24,7 @@ Avant de démarrer, assurez-vous d'avoir les éléments suivants installés sur 
 ### **Étape 2 : Configuration de la Base de Données**
 1. Ouvrez [phpMyAdmin](http://localhost/phpmyadmin/) dans votre navigateur.
 2. Créez une nouvelle base de données, par exemple **`essect_db`**.
-3. Importez la base de données SQL fournie (**`etudiant_blog.sql`**).
+3. Importez la base de données SQL fournie (**`essect_db.sql`**).
 4. Allez dans **Importer**, sélectionnez le fichier SQL fourni et cliquez sur **Exécuter**.
 
 ### **Étape 3 : Lancer le Projet**
